@@ -1,0 +1,6 @@
+print('digite 4 numeros')
+n1 = int(input('digite seu numero'))
+n2 = int(input('digite seu numero'))
+n3 = int(input('digite seu numero'))
+n4 = int(input('digite seu numero'))
+print(' os seus numeros foram', n1+n2+n3+n4)

@@ -1,0 +1,5 @@
+print('a nota de um aluno1 foi de 40')
+print('a nota de um aluno2 foi de 60')
+print('a nota de um aluno3 foi de 80')
+print('a nota de um aluno4 foi de 90')
+print(' a média dos alunos é de ',(40+60+80+90)/4)
